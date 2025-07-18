@@ -1,0 +1,8 @@
+Company_Name/database.json
+Company_Name/config/Manifest.json
+Company_Name/config/production.json
+CloudDBMode/api.json
+LocalMode/config/Manifest.json
+LocalMode/config/production.json
+LocalMode/database.json
+CloudDBMode/database.json
